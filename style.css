@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    border: 5px solid white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+
+}
+#false{
+   color: white; 
+   text-align:center;
+   margin-left:25%  ;
+   width: 50%;
+}
+.one{
+    font-size: 55px;
+    
+    
+}
+.two{
+    font-size:20px;
+}
